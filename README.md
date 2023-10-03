@@ -15,7 +15,7 @@ This project will focus on the explainability of machine learning predictive mod
 
 # Getting Started
 
-Programming language: Python 3.8
+Programming language: Python 3.8.16
 # Software Requirement
 ## Environment Installation
 First of all, please set up a conda environment
