@@ -24,6 +24,24 @@ conda env create -n XAI
 conda activate XAI
 pip install numpy pandas scikit-learn xgboost matplotlib seaborn shap tensorflow lime
 ```
+## Package Versions
+| Package Name           | Version    |
+|------------------------|------------|
+| _py-xgboost-mutex      | 2.0        |
+| libxgboost             | 1.7.4      |
+| lime                   | 0.2.0.1    |
+| matplotlib-base        | 3.7.1      |
+| matplotlib-inline      | 0.1.6      |
+| numpy                  | 1.24.3     |
+| pandas                 | 2.0.1      |
+| py-xgboost             | 1.7.4      |
+| scikit-learn           | 1.2.2      |
+| seaborn                | 0.12.2     |
+| shap                   | 0.41.0     |
+| tensorflow             | 2.13.0rc1  |
+| tensorflow-estimator   | 2.13.0rc0  |
+| tensorflow-macos       | 2.13.0rc1  |
+| xgboost                | 1.7.4      |
 
 # Dataset
 We use min-max normlazation to rescale the raw dataset, and split it into two for training and testing repectively. Validation step is evaluated by using 5-fold cross validation.
