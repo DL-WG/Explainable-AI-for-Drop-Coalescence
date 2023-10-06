@@ -1,14 +1,3 @@
-# IRP
-
-## About this template
-
-We generated this repository for you to work in during your IRP. Please note that if your code is confidential, you do not need to submit your code here.
-
-- For project information updates, please refer to `README.md` in [`info/`](./info) directory.
-- For details on deliverable submissions, please refer to `README.md` in [`reports/`](./reports) directory.
-
-If you have any questions or experience any difficulties, please get in touch with Marijan (m.beg@imperial.ac.uk).
-
 # Explainable AI: understand the black box of predictive models with chemical engineering applications
 
 This project will focus on the explainability of machine learning predictive models for drop coalescence conducted in microfludics device and use initial experimental conditions as input. In the first stage, the student will construct different ML predictive models, including random forest, XGboost and deep neural networks. The second stage consists of extensive analysis of model results/parameters. SHAP and LIME will be used for model interpretbility.
